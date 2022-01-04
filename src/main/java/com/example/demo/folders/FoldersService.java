@@ -19,6 +19,7 @@ public class FoldersService {
 		this.foldersRepository = foldersRepository;
 	}
 	
+//	フォルダ一覧の取得
     public List<Folders> getFolders() {
         return foldersRepository.findAll();
     }
