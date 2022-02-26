@@ -35,3 +35,5 @@ build/
 ### dependencies ###
 /node
 /node_modules
+
+node
